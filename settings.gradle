@@ -1,0 +1,6 @@
+rootProject.name = 'spring-autoconfiguration'
+
+include 'greeter'
+include 'greeter-spring-boot-autoconfigure'
+include 'greeter-spring-boot-starter'
+include 'greeter-spring-boot-sample'
